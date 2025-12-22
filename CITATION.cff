@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the following working paper."
+type: dataset
+title: "Populism Scores from Party Manifestos"
+authors:
+  - family-names: Nikolakakis
+    given-names: Nikolaos
+  - family-names: Polyzos
+    given-names: Efstathios
+  - family-names: Arin
+    given-names: Kerim Peren
+year: 2025
+version: "1.0.0"
+doi: 10.2139/ssrn.5296231
+url: https://ssrn.com/abstract=5296231
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nikolakakis
+      given-names: Nikolaos
+    - family-names: Polyzos
+      given-names: Efstathios
+    - family-names: Arin
+      given-names: Kerim Peren
+  year: 2025
+  title: "Go Big or Go Home: How Populist Rhetoric in Party Manifestos Shapes Electoral Outcomes"
+  journal: "SSRN Working Paper"
+  doi: 10.2139/ssrn.5296231
+  url: https://ssrn.com/abstract=5296231
