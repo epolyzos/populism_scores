@@ -1,0 +1,548 @@
+party,partyname,partyabbrev,country,countryname,PopulismScore,MostCommonDirection,IsInTrainingSample
+53240,Solidarity,S,53,Ireland,0.9963878798257297,Left,No
+23230,The Left,NA,23,Luxembourg,0.9934500930513935,Left,No
+42220,Austrian Communist Party,KPÖ,42,Austria,0.9889164405760905,Left,No
+53250,Workers and Unemployment Action,WUA,53,Ireland,0.9828522640692643,Left,No
+31240,Indomitable France,NA,31,France,0.97501637842712785,Left,No
+180231,Left Front,NA,180,Brazil,0.9730375086857588,Left,No
+97230,The Left,NA,97,Slovenia,0.9729476673437671,Left,No
+22240,Together,NA,22,Netherlands,0.9663915863636365,Left,No
+21230,Workers' Party of Belgium,PTB/PVDA,21,Belgium,0.9611787694444445,Left,No
+14820,True Finns,PS,14,Finland,0.9608051583333332,Right,Yes
+34214,Popular Unity,LAE,34,Greece,0.9578193402153401,Left,No
+51951,United Kingdom Independence Party,UKIP,51,United Kingdom,0.9557617333333334,Right,Yes
+96720,Kotleba – People's Party Our Slovakia,ĽSNS,96,Slovakia,0.9548362857142858,Right,No
+53981,Independent Alliance,NA,53,Ireland,0.95071063015873,Left,No
+43810,Swiss People’s Party,SVP/UDC,43,Switzerland,0.9501683119047619,Right,Yes
+35211,Left Bloc,BE,35,Portugal,0.9435515867587966,Left,No
+41953,Alternative for Germany,AfD,41,Germany,0.9423166293650794,Right,Yes
+31720,National Front,NA,31,France,0.9400238666666667,Right,Yes
+13229,Red-Green Unity List,EL,13,Denmark,0.9385173748182376,Left,No
+22230,Pacifist Socialist Party,PSP,22,Netherlands,0.9372146192918192,Left,No
+41223,The Left,LINKE,41,Germany,0.9359145400000001,Left,No
+33020,Popular Unity,UP,33,Spain,0.9281353206349208,Left,No
+34020,Coalition of the Radical Left,SYRIZA,34,Greece,0.9252854851911978,Left,No
+22731,Right Answer 21,JA21,22,Netherlands,0.9232977666666665,Right,No
+92070,Confederation Liberty and Independence,KWiN,92,Poland,0.9216136111111108,Right,No
+34210,Communist Party of Greece,KKE,34,Greece,0.9143930525178526,Left,No
+33710,Voice,VOX,33,Spain,0.9131860671957672,Right,Yes
+51701,Reform UK,NA,51,United Kingdom,0.9032047000000003,Right,No
+43020,Together on the Left,EAG,43,Switzerland,0.8992178122516372,Left,No
+42951,Team Stronach for Austria,TS,42,Austria,0.8949989333333335,Right,No
+22730,Forum for Democracy,FvD,22,Netherlands,0.8947198500000002,Right,No
+13730,The New Right,NA,13,Denmark,0.8865283333333336,Right,No
+92720,Kukiz'15,NA,92,Poland,0.8843530190476188,Right,No
+42420,Austrian Freedom Party,FPÖ,42,Austria,0.8785913136054422,Right,Yes
+33210,We can,NA,33,Spain,0.8783390671550672,Left,No
+22722,Party of Freedom,PVV,22,Netherlands,0.8777210865412367,Right,No
+82710,Association for the Republic – Republican Party of Czechoslovakia,SPR-RSČ,82,Czech Republic,0.8768621333333334,Right,No
+96610,Civic Conservative Party,OKS,96,Slovakia,0.8745057142857142,Right,No
+41730,Sahra Wagenknecht Alliance – Reason and Justice,BSW,41,Germany,0.8730963000000003,Right,No
+43901,Ticino League,LdT,43,Switzerland,0.8719977079365084,Right,No
+12230,Red Party,NA,12,Norway,0.8714195706349204,Left,No
+22220,Socialist Party,SP,22,Netherlands,0.8708642647593147,Left,No
+41222,The Left. Party of Democratic Socialism,L-PDS,41,Germany,0.8704172095238096,Left,No
+53021,United Left Alliance,ULA,53,Ireland,0.8584403359584861,Left,No
+86711,Our Homeland Movement,NA,86,Hungary,0.8499874666666669,Right,No
+53230,Socialist Party,NA,53,Ireland,0.8465341848762351,Left,No
+53231,People Before Profit,PBP,53,Ireland,0.846451207842158,Left,No
+82721,Freedom and Direct Democracy,SPD,82,Czech Republic,0.8454376428571431,Right,No
+96725,We Are Family,NA,96,Slovakia,0.830271533333333,Right,No
+32230,Left Ecology Freedom,SEL,32,Italy,0.8176771105339105,Left,No
+92436,Law and Justice,PiS,92,Poland,0.8164398083333335,Right,Yes
+34711,Greek Solution,EL,34,Greece,0.8161303833333332,Right,No
+55610,Solidarity Movement,KA,55,Cyprus,0.815314880952381,Right,No
+32212,Communist Refoundation Party,PRC,32,Italy,0.8148465142857144,Left,No
+21917,Flemish Interest,VB,21,Belgium,0.8139303714285713,Right,No
+86421,Alliance of Federation of Young Democrats - Christian Democratic People's Party,FiDeSz-KDNP,86,Hungary,0.8097886849206348,Right,Yes
+51904,Traditional Unionist Voice,TUV,51,United Kingdom,0.8080801952380954,Right,No
+80710,National Union Attack,ATAKA,80,Bulgaria,0.8061240944398196,Right,No
+31021,Left Front,FDG,31,France,0.8052238238095242,Left,No
+71210,Reiwa Shinsengumi,NA,71,Japan,0.8027037878787879,Left,No
+33220,United Left,IU,33,Spain,0.8014356864746366,Left,No
+34211,Progressive Left Coalition,SYN,34,Greece,0.8013195477994228,Left,No
+22820,Farmer-Citizen Movement,BBB,22,Netherlands,0.8003998666666666,Right,No
+97020,United Left,ZL,97,Slovenia,0.7986782920634923,Left,No
+83720,Conservative People's Party of Estonia,EKRE,83,Estonia,0.7937153166666668,Right,No
+22711,Centre Democrats,NA,22,Netherlands,0.792482073015873,Right,No
+13951,Progress Party,FP,13,Denmark,0.789099585714286,Right,No
+43220,Swiss Labour Party,PdAS/PdTS,43,Switzerland,0.7886844143994892,Left,No
+34720,Golden Dawn,XA,34,Greece,0.7875027487082364,Right,No
+155025,Together we can do more for Chile,PODEMOS,155,Chile,0.7861112149905648,Left,No
+35220,Portuguese Communist Party,PCP,35,Portugal,0.7814039746725499,Right,No
+33025,United We Can,NA,33,Spain,0.7779761166666662,Left,No
+86810,Independent Smallholders’ Party,FKgP,86,Hungary,0.7730305746031749,Right,No
+171306,Labor Party,PT,171,Mexico,0.77285798034299,Left,No
+92713,League of Polish Families,LPR,92,Poland,0.7710879025835278,Left,No
+22951,Party for the Animals,PvdD,22,Netherlands,0.7707956715284716,Left,No
+96710,Slovak National Party,SNS,96,Slovakia,0.7647723416666666,Right,No
+82720,Tomio Okamura's Dawn of Direct Democracy,Úsvit,82,Czech Republic,0.76114293968254,Right,No
+87735,For Stability,S!,87,Latvia,0.7515022134920635,Right,No
+43711,Federal Democratic Union,EDU/UDF,43,Switzerland,0.7486594095238095,Right,No
+181210,Economic Freedom Fighters,EEF,181,South Africa,0.7476937443362193,Left,No
+32956,Five Star Movement,M5S,32,Italy,0.7465721756715507,Right,Yes
+32610,Go Italy,FI,32,Italy,0.743839644444444,Right,No
+41221,Party of Democratic Socialism,PDS,41,Germany,0.7424230778499277,Left,No
+53952,Unite,NA,53,Ireland,0.7387647619047619,Right,No
+11710,Sweden Democrats,SD,11,Sweden,0.7383799589285716,Right,No
+22321,DENK,DENK,22,Netherlands,0.7267487816239316,Right,No
+11220,Left Party,V,11,Sweden,0.7263587094782995,Left,No
+35110,Ecologist Party ‘The Greens',PEV,35,Portugal,0.7262101256682204,Left,No
+34215,European Realistic Disobedience Front,MeRA25,34,Greece,0.7237241912698416,Right,No
+42710,Alliance for the Future of Austria,BZÖ,42,Austria,0.7200281884920635,Right,No
+32630,Brothers of Italy,FDI,32,Italy,0.717731040476191,Right,No
+74717,Felicity Party,SAADET,74,Turkey,0.7158916333333332,Right,No
+55110,Movement of Ecologists - Citizens' Cooperation,NA,55,Cyprus,0.7154208497354497,Right,No
+155024,"If you want it, Chile changes",NA,155,Chile,0.7133001154401152,Left,No
+22952,Reformed Political Party,SGP,22,Netherlands,0.7021300387102214,Right,No
+55720,National Popular Front,ELAM,55,Cyprus,0.6975951946164944,Left,No
+80062,Patriotic Front - NFSB and VMRO,NA,80,Bulgaria,0.692237253968254,Right,No
+83440,Free Party,EVA,83,Estonia,0.6918237333333335,Right,No
+74325,Peace and Democracy Party,BDP,74,Turkey,0.6916207834776333,Left,No
+53951,We Ourselves,SF,53,Ireland,0.6893362234126985,Left,No
+80220,Bulgarian Socialist Party,BSP,80,Bulgaria,0.6885439450216453,Left,No
+43902,Geneva Citizens' Movement,MCG,43,Switzerland,0.6882063694375073,Right,No
+21710,People's Party,PP,21,Belgium,0.6875956761904765,Right,No
+92322,Union of Labour,UP,92,Poland,0.687394249206349,Right,No
+155980,Independent,NA,155,Chile,0.6853230333333332,Right,No
+22953,50Plus,50PLUS,22,Netherlands,0.683357803030303,Left,No
+97710,Slovenian National Party,SNS,97,Slovenia,0.6823249984126986,Right,No
+35720,Enough,NA,35,Portugal,0.6811724484126986,Right,No
+96620,Ordinary People and Independent Personalities,OľaNO,96,Slovakia,0.680926688095238,Right,No
+86710,Movement for a Better Hungary,Jobbik,86,Hungary,0.6764651555555559,Right,No
+181980,African Independent Congress,AIC,181,South Africa,0.6752666587301588,Right,No
+13720,Danish People’s Party,DF,13,Denmark,0.6702099188339439,Right,No
+171035,Progressive Movement,NA,171,Mexico,0.6644412153957153,Left,No
+181710,Freedom Front Plus,FF+,181,South Africa,0.6643638634920637,Right,No
+43540,Christian Social Party,CSP/PCS,43,Switzerland,0.6616450565517815,Right,No
+71320,Social Democratic Party,SDP,71,Japan,0.6612073584998337,Left,No
+74210,Peoples' Democratic Party,HDP,74,Turkey,0.6610930727476227,Left,No
+32640,Labour and Freedom List,3L,32,Italy,0.658477263247863,Right,No
+34710,Popular Orthodox Rally,LAOS,34,Greece,0.6583141166666664,Right,No
+12221,Socialist Left Party,SV,12,Norway,0.6576646039113665,Left,No
+88952,The Way of Courage,DK,88,Lithuania,0.656301566666667,Right,No
+96440,Freedom and Solidarity,SaS,96,Slovakia,0.6562100782254782,Right,No
+22528,Reformatory Political Federation,RPF,22,Netherlands,0.6491356,Right,No
+31220,French Communist Party,PCF,31,France,0.6405508826701078,Left,No
+34730,Independent Greeks,ANEL,34,Greece,0.6372354679172679,Left,No
+33097,In Tide,NA,33,Spain,0.6356706420579417,Left,No
+22210,Communist Party of the Netherlands,CPN,22,Netherlands,0.6296743280256781,Right,No
+43110,Green Party of Switzerland,GPS/PES,43,Switzerland,0.6278419158004034,Left,No
+64321,The Alliance,Alliance,64,New Zealand,0.626531934920635,Left,No
+51110,Green Party of England and Wales,GPEW,51,United Kingdom,0.6222352624930625,Left,No
+32055,Us with Italy,NcL,32,Italy,0.6216524380952384,Right,No
+74326,Democratic Society Party,DTP,74,Turkey,0.6206494812715062,Left,No
+32021,Civil Revolution,RC,32,Italy,0.61899182991453,Right,No
+31022,New Ecologic and Social People's Union,NA,31,France,0.6167595333333332,Right,No
+87736,Latvia First,LPV,87,Latvia,0.6151774904761909,Right,No
+96111,Green Party of Slovakia,SZ,96,Slovakia,0.6137104063492064,Right,No
+35130,Free,L,35,Portugal,0.6129783708347207,Left,No
+33098,Valencian style,Compromís–Podemos–EUPV,33,Spain,0.6111483873293373,Left,No
+171034,Coalition ‘We save Mexico',NA,171,Mexico,0.6096972747863247,Left,No
+41952,Pirates,NA,41,Germany,0.6078942809523812,Left,No
+155027,Approve Dignity,NA,155,Chile,0.6046381492063491,Left,No
+71220,Japanese Communist Party,JCP,71,Japan,0.6010122744449997,Left,No
+92710,Confederation for an Independent Poland,KPN,92,Poland,0.5950138335789211,Left,No
+87723,For Fatherland and Freedom - Latvian National Independence Movement,TB-LNNK,87,Latvia,0.5944164418331669,Left,No
+171210,National Regeneration Movement,MORENA,171,Mexico,0.5899433270854144,Left,No
+14520,Christian Democrats in Finland,KD,14,Finland,0.5842193583333335,Right,No
+32450,Democratic Centre,CD,32,Italy,0.581863680952381,Right,No
+22527,Reformed Political League,GPV,22,Netherlands,0.5805534250000001,Right,No
+13520,Christian Democrats,K,13,Denmark,0.5801158238095235,Right,No
+88460,Order and Justice,PTT,88,Lithuania,0.5786875894179895,Right,No
+61620,Republican Party,Republicans,61,United States,0.5751397708994708,Right,No
+55321,Progressive Party of the Working People,AKEL,55,Cyprus,0.5698194786223034,Left,No
+82413,Civic Democratic Party,ODS,82,Czech Republic,0.56932925,Right,No
+181311,United Democratic Movement,UDM,181,South Africa,0.5690613857142856,Right,No
+181520,African Transformation Movement,ATM,181,South Africa,0.5675472682539683,Right,No
+14223,Left Wing Alliance,VAS,14,Finland,0.5662629769744144,Left,No
+43530,Protestant People’s Party of Switzerland,EVP/PEV,43,Switzerland,0.5576552564791689,Right,No
+80640,Will,NA,80,Bulgaria,0.5550303999999997,Right,No
+155026,Broad Front,FA,155,Chile,0.5538629362637362,Left,No
+64422,Progressive Party,Progressive,64,New Zealand,0.5529250825396825,Right,No
+43420,FDP.The Liberals,FDP/PLR,43,Switzerland,0.5506895100610503,Right,No
+32720,League,L,32,Italy,0.5506199244061494,Right,No
+31430,Union of Democrats and Independents,NA,31,France,0.5466728746031748,Right,No
+43520,Christian Democratic People’s Party of Switzerland,CVP/PDC,43,Switzerland,0.5466673859126984,Right,No
+31626,The Republicans,NA,31,France,0.5459627166666667,Right,No
+86110,Politics Can Be Different,LMP,86,Hungary,0.5455129238095239,Right,No
+12810,Centre Party,Sp,12,Norway,0.5440711038697413,Right,No
+33095,Basque Country Unite,EH Bildu,33,Spain,0.5415296560145411,Left,No
+51901,The Party of Wales,PC,51,United Kingdom,0.5393949255050506,Left,No
+181510,African Christian Democratic Party,ACDP,181,South Africa,0.5380312984126985,Right,No
+155062,Christian Social Front,FSC,155,Chile,0.5379730333333335,Right,No
+80071,United Patriots,OP,80,Bulgaria,0.5373430274753024,Left,No
+31061,Union of the Right and Centre,NA,31,France,0.5343872934065935,Right,No
+34212,Coalition of the Radical Left,SYRIZA,34,Greece,0.5300196377539126,Left,No
+64420,ACT New Zealand,ACT,64,New Zealand,0.5279924158187492,Right,No
+63110,Australian Greens,NA,63,Australia,0.5272848203110381,Left,No
+64110,Green Party of Aotearoa New Zealand,Greens,64,New Zealand,0.5229449182530433,Right,No
+53321,Social Democrats,NA,53,Ireland,0.5207612937284938,Right,No
+74712,National Action Party,MHP,74,Turkey,0.5205876115873016,Right,No
+35120,People-Animals-Nature,PAN,35,Portugal,0.5186945594276094,Right,No
+32022,Italy Europe Together,I,32,Italy,0.5178027568903321,Left,No
+12110,Green Party,MDG,12,Norway,0.5162847714146964,Right,No
+87021,Concord Centre,SC,87,Latvia,0.5130380898758649,Right,No
+12951,Progress Party,FrP,12,Norway,0.5115383726190476,Right,No
+180710,Party of the Reconstruction of the National Order,PRONA,180,Brazil,0.5108509142857143,Right,No
+34213,Democratic Left,DIMAR,34,Greece,0.5108197319624821,Left,No
+88451,Freedom Party,LP,88,Lithuania,0.5105257357142858,Right,No
+180230,Brazil of Hope,NA,180,Brazil,0.5084737917822917,Left,No
+87422,For Human Rights in a United Latvia,PCTVL,87,Latvia,0.5070819793650793,Right,No
+13230,Socialist People’s Party,SF,13,Denmark,0.5064970977587229,Left,No
+13620,Conservative People’s Party,KF,13,Denmark,0.5057884623931623,Right,No
+155620,Liberal-Socialists of Chile,NA,155,Chile,0.5032200444444442,Right,No
+42110,The Greens,GRÜNE,42,Austria,0.502202166043084,Right,No
+43320,Social Democratic Party of Switzerland,SPS/PSS,43,Switzerland,0.4998195227614978,Left,No
+82220,Communist Party of Bohemia and Moravia,KSČM,82,Czech Republic,0.4983923199397825,Right,No
+53110,Green Party,Greens,53,Ireland,0.4970146002358751,Right,No
+180620,For the Good of Brazil,NA,180,Brazil,0.4965505428571429,Right,No
+87640,New Conservative Party,NA,87,Latvia,0.4961782317460321,Right,No
+43531,Liberal Party of Switzerland,LPS/PLS,43,Switzerland,0.4954100238095238,Right,No
+13001,Liberal Alliance,NA,13,Denmark,0.4941460391025641,Right,No
+32031,Free and Equal,LeU,32,Italy,0.4931976121961372,Left,No
+11520,Christian Democrats,Kd,11,Sweden,0.4914273155067156,Right,No
+55340,Citizens' Alliance,SYPOL,55,Cyprus,0.4902799095238096,Right,No
+12520,Christian People’s Party,KrF,12,Norway,0.4890213499999999,Right,No
+62110,Green Party,NA,62,Canada,0.4842502051171052,Left,No
+181910,Inkatha Freedom Party,IFP,181,South Africa,0.4842025810650462,Right,No
+21912,"Democratic, Federalist,  Independent",DéFI,21,Belgium,0.4832850057359306,Right,No
+87423,New Era,JL,87,Latvia,0.4801701650793653,Right,No
+180309,Party of Brazilian Social Democracy,PSDB,180,Brazil,0.478076480952381,Right,No
+64421,United Future New Zealand,NA,64,New Zealand,0.4769056012612388,Right,No
+87071,National Alliance ‘All For Latvia!' – ‘For Fatherland and Freedom - Latvian National Independence Movement',NA,87,Latvia,0.4768122287301589,Right,No
+42320,Austrian Social Democratic Party,SPÖ,42,Austria,0.475873719583591,Right,No
+62901,Quebec Bloc,BQ,62,Canada,0.4748675073680288,Right,No
+43811,Conservative Democratic Party of Switzerland,BDP/PBD,43,Switzerland,0.4737502460317462,Right,No
+22954,General Elderly Alliance,AOV,22,Netherlands,0.4736856857142855,Right,No
+64951,New Zealand Democratic Party,NZDP,64,New Zealand,0.4723185333333333,Right,No
+64621,New Zealand First Party,NZF,64,New Zealand,0.4702809526606727,Right,No
+62623,Conservative Party of Canada,CP,62,Canada,0.4696734333333333,Right,No
+92022,The Left,NA,92,Poland,0.4693397135808636,Left,No
+21321,Socialist Party Different,sp.a,21,Belgium,0.4681022322143135,Left,No
+87340,"Social Democartic Party ""Harmony""",SDPS,87,Latvia,0.4678455692196692,Right,No
+93712,Greater Romania Party,PRM,93,Romania,0.4676006181947682,Right,No
+87063,New Unity,JV,87,Latvia,0.4655893211843711,Right,No
+22526,Christian Union,CU,22,Netherlands,0.46456914,Right,No
+171033,Coalition ‘For the Good of All',NA,171,Mexico,0.4644530864746366,Left,No
+64902,Mana Party,Mana,64,New Zealand,0.4628383182539683,Left,No
+31440,Horizons,NA,31,France,0.4618924680097679,Right,No
+32051,Popular Civic List,CP,32,Italy,0.4616378912698412,Right,No
+22235,Volt Netherlands,Volt,22,Netherlands,0.4598561666666669,Right,No
+93002,Social Democratic Party + Conservative Party Alliance,PSD-PC,93,Romania,0.4591786571428571,Right,No
+87630,For Latvia from the Heart,NA,87,Latvia,0.4584934603174605,Right,No
+88951,Election Action of Lithuania’s Poles,LLRA/AWPL,88,Lithuania,0.4571661396825396,Right,No
+63710,Katter's Australian Party,KAT,63,Australia,0.4560781741452992,Left,No
+180232,Socialist People's Party,PPS,180,Brazil,0.4520113111111111,Right,No
+82952,Public Affairs,VV,82,Czech Republic,0.4491435666666667,Right,No
+42120,Peter Pilz List,PILZ,42,Austria,0.4487677926129425,Right,No
+21112,Green!,groen!,21,Belgium,0.4474261200396826,Left,No
+32530,Union of the Center,UdC,32,Italy,0.44661406190476183,Right,No
+86522,Christian Democratic People’s Party,KDNP,86,Hungary,0.4459743999999999,Right,No
+92811,Polish Peasants' Party,PSL,92,Poland,0.4455611623870573,Right,No
+82523,Christian and Democratic Union - Czech People's Party,KDU-ČSL,82,Czech Republic,0.4454360833333334,Right,No
+12320,Labour Party,Ap,12,Norway,0.4418541556471306,Left,No
+92050,Polish Coalition,PSL,92,Poland,0.4417819299145301,Right,No
+64901,Māori Party,NA,64,New Zealand,0.4417423365079364,Right,No
+51903,Democratic Unionist Party,DUP,51,United Kingdom,0.4398519197191696,Right,No
+32629,House of Freedom,NA,32,Italy,0.4365901571428572,Right,No
+22420,People’s Party for Freedom and Democracy,VVD,22,Netherlands,0.4361589977777778,Right,No
+97341,List of Marjan Šarec,LMŠ,97,Slovenia,0.4327628878510378,Right,No
+80330,Alternative for Bulgarian Revival,ABV,80,Bulgaria,0.43231996007326,Right,No
+34410,Union of Centrists,EK,34,Greece,0.431528961904762,Right,No
+33021,Unite,NA,33,Spain,0.4302063315961816,Left,No
+22320,Labour Party,PvdA,22,Netherlands,0.4296914925396825,Left,No
+155401,Party of the People,PDG,155,Chile,0.4286852444444446,Right,No
+13330,Centre Democrats,CD,13,Denmark,0.4286666169413919,Right,No
+155602,National Renewal,RN,155,Chile,0.4267505238095241,Right,No
+21111,Ecologists,ECOLO,21,Belgium,0.4267325164270916,Left,No
+23951,Alternative Democatic Reform Party,ADR,23,Luxembourg,0.4263764640211639,Right,No
+171601,Alliance for Change,NA,171,Mexico,0.4259124567629901,Right,No
+53320,Labour Party,Labour,53,Ireland,0.4250470142773893,Left,No
+97951,Democratic Party of Pensioners of Slovenia,DeSUS,97,Slovenia,0.4250065655266955,Left,No
+22110,Green Left,GL,22,Netherlands,0.4241491751226551,Right,No
+88621,Homeland Union - Lithuanian Christian Democrats,TS-LKD,88,Lithuania,0.4232869833333333,Right,No
+88322,Social Democratic Labour Party of Lithuania,LSDDP,88,Lithuania,0.4230126333333334,Right,No
+43120,Green Liberal Party,GLP,43,Switzerland,0.4228855522935399,Right,No
+155201,Progressive Party,PRO,155,Chile,0.4226866756715505,Right,No
+93061,Right Romania Alliance,ARD,93,Romania,0.4195423982628482,Left,No
+171101,Mexican Green Ecologist Party,PVEM,171,Mexico,0.4191130277794428,Right,No
+150021,United for a New Alternative,UNA,150,Argentina,0.4182339238095237,Right,No
+51621,Ulster Unionist Party,UUP,51,United Kingdom,0.4173384816239314,Right,No
+14440,Movement Now,NA,14,Finland,0.417198402136752,Right,No
+13320,Social Democratic Party,SD,13,Denmark,0.4168465879422165,Right,No
+51620,Conservative Party,Conservatives,51,United Kingdom,0.4150748166666666,Right,No
+22710,Centre Party,NA,22,Netherlands,0.4124668333333334,Right,No
+92622,Self-Defence of the Polish Republic,SRP,92,Poland,0.4118857561050061,Right,No
+87312,The Progressives,NA,87,Latvia,0.4110536047619046,Right,No
+171310,Social Democratic Party,PSD,171,Mexico,0.4092390174603174,Right,No
+150029,Justicialist Party of Popular Unity,FREJUPO,150,Argentina,0.4083582194361193,Left,No
+61320,Democratic Party,Democrats,61,United States,0.4076133933862434,Right,No
+96430,Public Against Violence,VPN,96,Slovakia,0.4065808,Right,No
+150220,New Encounter,NA,150,Argentina,0.4064157850288599,Left,No
+87110,Greens' and Farmers’ Union,ZZS,87,Latvia,0.4059341585571836,Right,No
+87062,Unity,NA,87,Latvia,0.4045252464847652,Right,No
+31110,Europe Ecology - The Greens,EÉLV,31,France,0.4032273719030969,Left,No
+21322,Francophone Socialist Party,PS,21,Belgium,0.4026453082070707,Left,No
+11110,Green Ecology Party,MP,11,Sweden,0.4019371098762348,Right,No
+92210,Democratic Left Alliance,SLD,92,Poland,0.401870648953824,Left,No
+86521,Hungarian Democratic Forum,MDF,86,Hungary,0.4000641785714287,Right,No
+180240,United for Brazil,NA,180,Brazil,0.3967416722222223,Left,No
+150040,Center Alliance,NA,150,Argentina,0.3963014634920634,Right,No
+150025,Everyone's Front,NA,150,Argentina,0.3935247000440035,Left,No
+96521,Christian Democratic Movement,KDH,96,Slovakia,0.3917931269841269,Right,No
+74710,Republican National Party,CMP,74,Turkey,0.3895837894383395,Right,No
+87042,Development/For!,NA,87,Latvia,0.3881463402319903,Right,No
+96711,Movement for a Democratic Slovakia,HZDS,96,Slovakia,0.3857332000000001,Right,No
+180110,Green Party,PV,180,Brazil,0.3838158438644687,Left,No
+51320,Labour Party,Labour,51,United Kingdom,0.3837512292929293,Left,No
+55711,Democratic Coalition,DISY,55,Cyprus,0.3829284550967552,Right,No
+92440,Palikot's Movement,RP,92,Poland,0.3827124815018316,Right,No
+14110,Green Union,VL,14,Finland,0.3825629284555722,Right,No
+88042,Coalition Labour Party and Youth,NA,88,Lithuania,0.3819327523809523,Right,No
+92953,German Minority,MN,92,Poland,0.3812590220191847,Right,No
+63901,Centre Alliance,NA,63,Australia,0.3808742961334962,Right,No
+64620,New Zealand National Party,National,64,New Zealand,0.3806568424603174,Right,No
+71660,Japan Innovation Party,JIP,71,Japan,0.3796302063492063,Right,No
+64320,New Zealand Labour Party,Labour,64,New Zealand,0.3791202982177546,Right,No
+32061,People of Freedom,PdL,32,Italy,0.3789896142857143,Right,No
+21221,Socialist Party Different - Spirit,sp.a-SPIRIT,21,Belgium,0.3773628203907201,Right,No
+14810,Finnish Centre,SK,14,Finland,0.3773605142857144,Right,No
+87901,Latvian Association of Regions,NA,87,Latvia,0.3770077095238094,Right,No
+171305,Democratic Revolutionary Party,PRD,171,Mexico,0.3768975164352313,Left,No
+180320,Labour Front Coalition,NA,180,Brazil,0.3762145632478634,Right,No
+63320,Australian Labor Party,ALP,63,Australia,0.3759751691879549,Right,No
+88630,National Resurrection Party,TPP,88,Lithuania,0.3757510537240535,Right,No
+55322,Social Democrats' Movement,EDEK,55,Cyprus,0.3734958072140822,Right,No
+150301,Civic Radical Union,UCR,150,Argentina,0.3718406560772562,Left,No
+63622,Country Liberal Party,CLP,63,Australia,0.3706292571428572,Right,No
+88620,Homeland Union,TS,88,Lithuania,0.370251561904762,Right,No
+171611,Social Encounter Party,PES,171,Mexico,0.3700636031746032,Right,No
+96522,Slovak Democratic Coalition,SDK,96,Slovakia,0.369237880952381,Right,No
+21430,List Dedecker,LDD,21,Belgium,0.3682661252747252,Right,No
+74640,Good Party,İYİ,74,Turkey,0.3665164238095238,Right,No
+34315,PASOK – Movement for Change,PASOK-KINAL,34,Greece,0.3656079157509157,Right,No
+62320,New Democratic Party,NDP,62,Canada,0.3652951478331192,Right,No
+11620,Moderate Coalition Party,MSP,11,Sweden,0.364087729047619,Right,No
+93420,Alliance of Liberals and Democrats,ALDE,93,Romania,0.362077225946276,Right,No
+97461,Modern Centre Party,SMC,97,Slovenia,0.3608802125763125,Right,No
+33092,Amaiur,NA,33,Spain,0.3576815578671328,Left,No
+93041,Justice and Truth Alliance,ADA,93,Romania,0.3567157333333334,Right,No
+96523,Slovak Democratic and Christian Union - Democartic Party,SDKÚ-DS,96,Slovakia,0.3566117126984127,Right,No
+31230,Left Radical Party,PRG,31,France,0.355886187012987,Left,No
+41113,Alliance‘90/Greens,90/Greens,41,Germany,0.3553064384199134,Left,No
+96953,Hungarian Christian Democratic Movement,MKdH/MKdM,96,Slovakia,0.3541111571428572,Right,No
+180410,New Brazil Movement,NA,180,Brazil,0.3526100142857141,Right,No
+83611,Pro Patria,NA,83,Estonia,0.3507635345238095,Right,No
+87011,United List,AS,87,Latvia,0.3502182735653237,Right,No
+87730,Who owns the state?,KPV LV,87,Latvia,0.3501409289294039,Left,No
+13410,Danish Social-Liberal Party,RV,13,Denmark,0.3485533512922263,Right,No
+35520,Social Democratic Center-Popular Party,CDS-PP,35,Portugal,0.3475279518518518,Right,No
+82110,Green Party,SZ,82,Czech Republic,0.3472812793650794,Right,No
+80221,BSP for Bulgaria,BSPzB,80,Bulgaria,0.3464026623015873,Right,No
+32902,List Di Pietro - Italy of Values,IdV,32,Italy,0.3463301923382173,Right,No
+97521,Slovenian People's Party,SLS,97,Slovenia,0.3456781126170126,Right,No
+11420,Liberals,L,11,Sweden,0.3441925059340659,Right,No
+22955,Union 55+,Unie 55+,22,Netherlands,0.3415842656288156,Right,No
+11320,Social Democratic Labour Party,SAP,11,Sweden,0.3412459852269952,Right,No
+93711,Romanian National Unity Party,PUNR,93,Romania,0.3406901,Right,No
+33230,More Country - Equo,NA,33,Spain,0.3381457666333667,Left,No
+51902,Scottish National Party,SNP,51,United Kingdom,0.3373292782837532,Right,No
+171309,New Alliance Party,PANAL,171,Mexico,0.335829896972472,Right,No
+171032,Commitment for Mexico,NA,171,Mexico,0.3350255999185999,Right,No
+13420,Liberals,V,13,Denmark,0.3348425571655197,Right,No
+80951,Movement for Rights and Freedoms,DPS,80,Bulgaria,0.3335994601953602,Right,No
+88422,Lithuanian Liberal Union,LLS,88,Lithuania,0.3328567333333334,Right,No
+180310,To unite Brazil,NA,180,Brazil,0.3323535834118263,Right,No
+93530,Democratic Liberal Party,PDL,93,Romania,0.3316853333333334,Right,No
+96421,Democratic Union of Slovakia,DÚS,96,Slovakia,0.3307814333333333,Right,No
+21916,New Flemish Alliance,N-VA,21,Belgium,0.3307673666666666,Right,No
+32906,Autonomy Progress Federalism Aosta Valley,NA,32,Italy,0.3305917251526251,Right,No
+42520,Austrian People’s Party,ÖVP,42,Austria,0.3297357238095238,Right,No
+155061,Chile we can do more,NA,155,Chile,0.3288243344322344,Right,No
+92410,Democratic Union,UD,92,Poland,0.3285079013431014,Right,No
+150230,Popular Front,NA,150,Argentina,0.3260564809523809,Right,No
+42430,The New Austria and Liberal Forum,NEOS,42,Austria,0.3240087394179894,Right,No
+55422,Democratic Party,DiKo,55,Cyprus,0.3238261163207163,Right,No
+155023,New Majority for Chile,NA,155,Chile,0.323699014901765,Left,No
+32460,Civic Choice,SC,32,Italy,0.3226243285714285,Right,No
+83612,Estonian People’s Union,ERL,83,Estonia,0.3221847078144078,Right,No
+92455,Spring,NA,92,Poland,0.3216657472610723,Left,No
+87620,Zatlers' Reform Party,ZRP,87,Latvia,0.3213989904761906,Right,No
+72903,National Democratic Assembly,BaLaD,72,Israel,0.3212452049034299,Left,No
+87041,‘Latvia's First Party' and ‘Latvian Way' Union,LPP/LC,87,Latvia,0.3211840380952381,Right,No
+88430,Liberal and Centre Union,LiCS,88,Lithuania,0.3206064465811966,Right,No
+88820,Lithuanian Peasant and Green Union,LVŽS,88,Lithuania,0.3196439968253968,Right,No
+12620,Conservative Party,H,12,Norway,0.3183692011904762,Right,No
+93430,National Liberal Party,PNL,93,Romania,0.3183037505494506,Right,No
+92431,Polish Beer-Lovers' Party,PPPP,92,Poland,0.3181829957875458,Right,No
+82430,ANO 2011,ANO,82,Czech Republic,0.3181078833333333,Right,No
+31320,Socialist Party,NA,31,France,0.3177322758121508,Left,No
+150222,It is possible,NA,150,Argentina,0.3176380489621489,Right,No
+93981,People's Party - Dan Dianconescu,PP-DD,93,Romania,0.3166281346764349,Right,No
+32090,Coalition of South Tyrolean People’s Party and Trentino Tyrolean Autonomist Party,SVP-PATT,32,Italy,0.3163747295787547,Left,No
+150205,Front of the popular movement,MP,150,Argentina,0.3153772081501832,Left,No
+33910,Navarrese People's Union,UPN,33,Spain,0.3141266347749474,Left,No
+93223,Social Democratic Party,PSD,93,Romania,0.31397691216931217,Right,No
+31631,Centrist Alliance,AC,31,France,0.3132612457875458,Right,No
+63620,Liberal Party of Australia,LPA,63,Australia,0.3127906219932844,Right,No
+82953,Czech Pirate Party,Piráti,82,Czech Republic,0.3111058523809525,Right,No
+97460,Party of Alenka Bratušek,SAB,97,Slovenia,0.3110955427350427,Right,No
+53520,Family of the Irish,NA,53,Ireland,0.3100793333333333,Right,No
+150401,Recreate for Growth,RECREAR,150,Argentina,0.3087091015873015,Right,No
+86111,Dialogue for Hungary,PM,86,Hungary,0.3082718666666667,Right,No
+155601,Independent Democratic Union,UDI,155,Chile,0.3072400489621488,Right,No
+87610,People’s Party,TP,87,Latvia,0.3068366703907203,Right,No
+41420,Free Democratic Party,FDP,41,Germany,0.3063024916666666,Right,No
+87061,For a Good Latvia,PLL,87,Latvia,0.30555154181929173,Right,No
+93440,Save Romania Union,USR,93,Romania,0.3050020817460317,Left,No
+93001,National Union PSR+PUR,PSD-PUR,93,Romania,0.3048871180097681,Right,No
+41912,South Schleswig Voters’ Union,SSW,41,Germany,0.3026712593406594,Left,No
+33909,Aragonist Council,CHA,33,Spain,0.3022513394633145,Left,No
+96630,Network,NA,96,Slovakia,0.3021254952380952,Right,No
+86001,United for Hungary,NA,86,Hungary,0.3018845,Right,No
+51210,We Ourselves,SF,51,United Kingdom,0.3002871353757353,Left,No
+33916,Teruel exists,NA,33,Spain,0.2999171574286824,Left,No
+150024,Social and Civic Agreement,ACyS,150,Argentina,0.2997716523060274,Left,No
+86340,Together 2014 -Dialogue for Hungary Electoral Alliance,E14-PM,86,Hungary,0.2997562988095238,Right,No
+31624,Democratic Movement,NA,31,France,0.2993427645502645,Right,No
+181320,Good,NA,181,South Africa,0.298735468009768,Right,No
+93540,People's Movement Party,PMP,93,Romania,0.2982801285714287,Right,No
+33905,Catalan Republican Left,ERC,33,Spain,0.2974040642690643,Right,No
+93411,Democratic Convention of Romania,CDR,93,Romania,0.2971769427822177,Left,No
+33913,Regionalist Party of Cantabria,PRC,33,Spain,0.297103812984238,Left,No
+63621,Liberal National Party of Queensland,LNP,63,Australia,0.2964796809035409,Right,No
+88450,Liberal Movement,LRLS,88,Lithuania,0.2932322447191697,Right,No
+63410,Palmer United Party,PUP,63,Australia,0.2921274666666668,Right,No
+14320,Finnish Social Democrats,SSDP,14,Finland,0.2919144161546786,Right,No
+88041,Coalition of Rolandas Paksas ‘For Order and Justice',UTT,88,Lithuania,0.2918697714285713,Right,No
+83110,Estonian Greens,EER,83,Estonia,0.2907462628510378,Right,No
+181420,Congress of the People,COPE,181,South Africa,0.2907238829873829,Right,No
+12420,Liberal Party,V,12,Norway,0.2900001392857142,Right,No
+88810,Lithuanian Peasants Party,LVP,88,Lithuania,0.2887533628010878,Left,No
+88440,Labour Party,DP,88,Lithuania,0.2864390583180708,Right,No
+14901,Swedish People’s Party,RKP/SFP,14,Finland,0.2857280947191698,Right,No
+181310,African National Congress,ANC,181,South Africa,0.2844315646927147,Right,No
+82610,Mayors and Independents,STAN,82,Czech Republic,0.2819905587301589,Left,No
+93951,Hungarian Democratic Alliance of Romania,UDMR/RMDSz,93,Romania,0.2804566313251564,Right,No
+180251,Soverign Brazil,NA,180,Brazil,0.2798330999999999,Left,No
+33914,More Commitment,NA,33,Spain,0.2793876107115107,Left,No
+171301,Institutional Revolutionary Party,PRI,171,Mexico,0.2789032753019203,Left,No
+96424,Alliance of the New Citizen,ANO,96,Slovakia,0.2757638888888891,Right,No
+55430,European Party,EVROKO,55,Cyprus,0.2756039166666667,Right,No
+93031,Social Liberal Union,USL,93,Romania,0.2750469156288156,Right,No
+34313,Panhellenic Socialist Movement,PASOK,34,Greece,0.2731879821444428,Right,No
+150202,Front for a Country in Solidarity,FREPASO,150,Argentina,0.2719476203907203,Right,No
+180311,Brazil for Everyone,NA,180,Brazil,0.2712747822954824,Right,No
+71440,Constitutional Democratic Party of Japan,CDP,71,Japan,0.2704672510128759,Left,No
+82530,"Tradition, Responsibility, Prosperity 09",TOP09,82,Czech Republic,0.2703773158730159,Right,No
+80061,Reformist bloc,NA,80,Bulgaria,0.2703236489621491,Right,No
+150022,Front for Loyalty and Union of the Democratic Centre,FPL + UCeDé,150,Argentina,0.269459048962149,Right,No
+23320,Socialist Workers’ Party of Luxembourg,LSAP/POSL,23,Luxembourg,0.2680815999185999,Left,No
+74321,Republican People’s Party,CHP,74,Turkey,0.2652390141414142,Right,No
+63810,National Party of Australia,NPA,63,Australia,0.2637685898199023,Right,No
+97440,For Real,NA,97,Slovenia,0.2627232244810744,Right,No
+33420,Citizens - Party of the Citizens,C's,33,Spain,0.2623999827380953,Right,No
+86320,Hungarian Social Democratic Party,MSzDP,86,Hungary,0.2620519987484738,Right,No
+150033,Federal Consensus,NA,150,Argentina,0.2620436238095238,Right,No
+181410,Democratic Party,DP,181,South Africa,0.2610981830891331,Right,No
+83411,Estonian Center Party,K,83,Estonia,0.2557209961904762,Right,No
+41320,Social Democratic Party of Germany,SPD,41,Germany,0.2553024987103175,Right,No
+150027,Federal Commitment,NA,150,Argentina,0.2546450578144078,Right,No
+51340,Social Democratic and Labour Party,SDLP,51,United Kingdom,0.254110183033633,Left,No
+171311,Citizens' Movement,NA,171,Mexico,0.2540091877711178,Left,No
+83430,Estonian Reform Party,ER,83,Estonia,0.249195861904762,Right,No
+88321,A. Brazauskas Social Democratic Coalition,BSDK,88,Lithuania,0.2479093952380952,Right,No
+53620,Soldiers of Destiny,NA,53,Ireland,0.246932917002442,Left,No
+33903,Basque Solidarity,EA,33,Spain,0.2457615000000002,Right,No
+34340,The River,NA,34,Greece,0.2454204333333334,Right,No
+11810,Centre Party,CP,11,Sweden,0.2447936989010989,Right,No
+51430,Alliance Party of Northern Ireland,Alliance,51,United Kingdom,0.2391152994241869,Left,No
+96220,Party of the Democratic Left,SDľ,96,Slovakia,0.2370439680097679,Right,No
+22521,Christian Democratic Appeal,CDA,22,Netherlands,0.2368146266666667,Right,No
+155030,New Social Pact,NPS,155,Chile,0.2366858325396825,Left,No
+74628,Justice and Development Party,AKP,74,Turkey,0.236230769047619,Right,No
+71620,Liberal Democratic Party,LDP,71,Japan,0.2333776190476191,Right,No
+181325,National Freedom Party,NFP,181,South Africa,0.2321625666666667,Right,No
+21522,Humanist Democratic Centre,cdH,21,Belgium,0.2297306214285714,Right,No
+88410,New Union (Social Liberals),NS,88,Lithuania,0.2282723,Right,No
+32901,European Democracy,DE,32,Italy,0.2270199571428571,Right,No
+150061,Alliance Union-PRO,NA,150,Argentina,0.224318768009768,Right,No
+93221,Democratic Party,PD,93,Romania,0.2242639190476191,Right,No
+92212,Coalion of the Democratic Left Alliance and the Union of Labour,SLD-UP,92,Poland,0.2211038333333332,Right,No
+181411,Democratic Alliance,DA,181,South Africa,0.22066920503663,Right,No
+88320,Lithuanian Social Democratic Party,LSDP,88,Lithuania,0.2197881726190476,Right,No
+22330,Democrats‘66,D’66,22,Netherlands,0.2194468704761905,Left,No
+33911,Democratic Convergence of Catalonia,CDC,33,Spain,0.2177624584859585,Right,No
+35410,Liberal Iniciative,IL,35,Portugal,0.2165212744810745,Right,No
+96423,Direction-Social Democracy,Smer,96,Slovakia,0.2145052726190477,Right,No
+97522,New Slovenian Christian People’s Party,Nsi,97,Slovenia,0.2143743355555556,Right,No
+83410,Social Democratic Party,SDE,83,Estonia,0.2100489736263737,Right,No
+150031,An Advanced Union,UNA,150,Argentina,0.2095803489621491,Right,No
+14620,National Coalition,KK,14,Finland,0.208293621443834,Right,No
+155021,New Majority for Chile,NA,155,Chile,0.2072882001181358,Left,No
+33906,Andalusian Party,PA,33,Spain,0.2072406911283161,Left,No
+82320,Czech Social Democratic Party,ČSSD,82,Czech Republic,0.2061300693223443,Right,No
+62420,Liberal Party of Canada,LP,62,Canada,0.2057569376381555,Right,No
+97330,Slovenian Democratic Party,SDS,97,Slovenia,0.2056821212698413,Right,No
+71628,Democratic Party for the People,DPFP,71,Japan,0.2042828632478633,Right,No
+33907,Canarian Coalition–New Canaries,CCa-PNC-NC,33,Spain,0.2026290960816961,Right,No
+97450,Gregor Virant's Civic List,LGV,97,Slovenia,0.2009266156288155,Right,No
+96952,Party of the Hungarian Coalition,SMK/MKP,96,Slovakia,0.1980498476190477,Right,No
+21330,"Social, Progressive, International, Regionalist, Integrally Democartic  and Forward-Looking",SPIRIT,21,Belgium,0.1958394833333335,Left,No
+21426,Reform Movement,MR,21,Belgium,0.1950613821428571,Right,No
+33610,People's Party,PP,33,Spain,0.1922687158730159,Right,No
+97340,Zoran Janković's List - Positive Slovenia,PS,97,Slovenia,0.18954602991453,Right,No
+35313,Social Democratic Party,PSD,35,Portugal,0.1882305142857143,Right,No
+23520,Christian Social People’s Party,CSV/PCS,23,Luxembourg,0.1880011222222222,Right,No
+150062,Together for Change,NA,150,Argentina,0.1866354894383395,Right,No
+92021,Left and Democrats,LiD,92,Poland,0.1860870142857144,Right,No
+71530,New Clean Government Party,NKP,71,Japan,0.1859966999999999,Right,No
+21521,Christian Democratic and Flemish,CD&V,21,Belgium,0.1850946083333334,Left,No
+80510,Citizens for European Development of Bulgaria,GERB,80,Bulgaria,0.1839162638888889,Right,No
+150023,Civic Coalition,CC,150,Argentina,0.1825411006521256,Left,No
+23420,Democratic Party,DP/PD,23,Luxembourg,0.1804325555555556,Right,No
+97322,Social Democratic Party,SD,97,Slovenia,0.1802160407448108,Left,No
+97421,Liberal Democracy of Slovenia,LDS,97,Slovenia,0.1774849194953194,Left,No
+33912,Together for Catalonia,JxCat,33,Spain,0.1740492965811966,Right,No
+53420,Progressive Democrats,PD,53,Ireland,0.1736176333333334,Right,No
+33093,Commitment-Q,NA,33,Spain,0.1729256649295149,Left,No
+32904,South Tyrolean People’s Party,SVP,32,Italy,0.1725107571428572,Right,No
+23113,The Greens,NA,23,Luxembourg,0.1721813963360714,Right,No
+96955,Bridge,NA,96,Slovakia,0.171387367114367,Right,No
+150221,Neuquén People's Movement,MPN,150,Argentina,0.1710707013431013,Right,No
+88031,Working for Lithuania,UdL,88,Lithuania,0.1696370632478634,Right,No
+35311,Socialist Party,PS,35,Portugal,0.16583504,Right,No
+80630,Bulgaria without Censorship,BBZ,80,Bulgaria,0.1640118666666666,Right,No
+155501,Christian Democratic Party,PDC,155,Chile,0.1615398666666667,Right,No
+150028,Justicialist Coalition for Change,NA,150,Argentina,0.1607171333333334,Right,No
+32451,More Europe,E,32,Italy,0.1596070333333333,Right,No
+31421,Radical Party,PR,31,France,0.1557890523809523,Right,No
+150026,Broad Progressive Front,FAP,150,Argentina,0.1539573101023977,Left,No
+33091,Future Yes,NA,33,Spain,0.1534092013431013,Right,No
+86422,Alliance of Free Democrats,SzDSz,86,Hungary,0.1529185666666667,Right,No
+93322,Social Democratic Union,USD,93,Romania,0.1526655299145298,Right,No
+33440,"Union, Progress and Democracy",UPyD,33,Spain,0.1497351746031746,Right,No
+32440,Democratic Party,PD,32,Italy,0.1428378924640175,Left,Yes
+34511,New Democracy,ND,34,Greece,0.138745974387341,Right,Yes
+88420,Lithuanian Centre Union,LCS,88,Lithuania,0.13279372991453,Right,No
+13110,Alternativ,NA,13,Denmark,0.1312466800727051,Right,No
+150601,Action for the Republic,AR,150,Argentina,0.1288131333333333,Right,No
+31630,New Centre,NC,31,France,0.1229983982711732,Left,No
+33902,Basque Nationalist Party,PNV/EAJ,33,Spain,0.1215547579524642,Left,No
+41521,Christian Democratic Union/Christian Social Union,CDU/CSU,41,Germany,0.1207344833333334,Right,Yes
+21421,Open Flemish Liberals and Democrats,openVLD,21,Belgium,0.1205846571428571,Right,No
+150210,Alternative for a Republic of Equals,ARI,150,Argentina,0.1187310462148962,Left,No
+86221,Democratic Coalition,DK,86,Hungary,0.1134287166666667,Right,No
+92435,Civic Platform,PO,92,Poland,0.1097487222222222,Right,Yes
+33612,Forum Asturias,FAC,33,Spain,0.09543406666666673,Right,No
+86220,Hungarian Socialist Party,MSzP,86,Hungary,0.09426866481629481,Right,Yes
+31041,Together for the Republic,NA,31,France,0.09055676666666676,Right,No
+35060,Portugal Ahead,PàF,35,Portugal,0.08712113333333332,Right,No
+150201,Justicialist Party,PJ,150,Argentina,0.08499856666666666,Right,No
+92450,Modern,.N,92,Poland,0.07881411904761904,Right,No
+31425,Renaissance,NA,31,France,0.07624870238095241,Right,Yes
+51421,Liberal Democrats,LibDems,51,United Kingdom,0.07453669047619046,Right,Yes
+33320,Spanish Socialist Workers’ Party,PSOE,33,Spain,0.06484897491570929,Left,Yes
+150032,"Aliance for Work, Justice, and Education",ALIANZA,150,Argentina,0.0637263,Right,No
+33611,Convergence and Union,CiU,33,Spain,0.03434546666666667,Right,No
