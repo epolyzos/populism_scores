@@ -24,10 +24,10 @@ Full methodological details are provided in the associated working paper.
 
 If you use these data, please cite:
 
-Nikolakakis, Nikolaos and Polyzos, Efstathios and Arin, Kerim Peren (2025).  
-*Go Big or Go Home: How Populist Rhetoric in Party Manifestos Shapes Electoral Outcomes*.  
-Available at SSRN: https://ssrn.com/abstract=5296231  
-http://dx.doi.org/10.2139/ssrn.5296231
+Nikolakakis, Nikolaos, Polyzos, Efstathios, and Arin, Kerim Peren (2026),
+*Go Big or Go Home: How Populist Rhetoric in Party Manifestos Shapes Electoral Outcomes*
+Forthcoming in the European Journal of Political Economy.
+DOI: https://doi.org/10.1016/j.ejpoleco.2026.102912
 
 ## Updates
 
@@ -41,11 +41,10 @@ You are free to use, copy, modify, merge, publish, distribute, and adapt the con
 
 While the MIT License does not legally require citation, **academic use of these data requires appropriate citation**. If you use the populism scores, derived measures, or any outputs from this repository in academic work, policy reports, or related research, please cite:
 
-Nikolakakis, Nikolaos and Polyzos, Efstathios and Arin, Kerim Peren,  
-*Go Big or Go Home: How Populist Rhetoric in Party Manifestos Shapes Electoral Outcomes*  
-Working Paper, June 15, 2025.  
-Available at SSRN: https://ssrn.com/abstract=5296231  
-DOI: http://dx.doi.org/10.2139/ssrn.5296231
+Nikolakakis, Nikolaos, Polyzos, Efstathios, and Arin, Kerim Peren (2026),
+*Go Big or Go Home: How Populist Rhetoric in Party Manifestos Shapes Electoral Outcomes*
+Forthcoming in the European Journal of Political Economy.
+DOI: https://doi.org/10.1016/j.ejpoleco.2026.102912
 
 The data provided here are **research outputs derived from the Manifesto Project Database** and related text-processing pipelines. They do not represent official positions or classifications of the Manifesto Project or its contributors.
 
